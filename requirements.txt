@@ -1,0 +1,6 @@
+cvxpy
+numpy
+tabulate
+pandas
+seaborn
+matplotlib
